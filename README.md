@@ -2,15 +2,6 @@
 
 # FacePulse: Smart Blood Pressure Prediction System
 
-## 🎥 Project Demo
-
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/82fbef8c-a399-4f53-b1d1-164b6fbfb43c" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
 ## 🌟 Revolutionizing Health Monitoring Through Facial Analysis
 
 FacePulse is an innovative AI-powered web application that estimates blood pressure non-invasively using just your device's camera. Our cutting-edge technology combines computer vision and machine learning to provide convenient health insights without traditional measurement tools.
@@ -83,7 +74,7 @@ def extract_rppg_signal(video_frames):
 |--------|-----------|---------------------|
 | Measurement Time | 30-45 sec | 1-2 min |
 | Comfort | Non-invasive | Cuff pressure |
-| Portability | Any smartphone | Specialized device |
+| Portability | Any portable device | Specialized device |
 | Accuracy* | ±8 mmHg | ±3 mmHg |
 
 *Compared to clinical sphygmomanometers
