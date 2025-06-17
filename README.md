@@ -52,7 +52,7 @@ def extract_rppg_signal(video_frames):
 ```
 
 ### Interactive Results Dashboard
-![Screenshot 2025-06-17 105050](https://github.com/user-attachments/assets/36069e49-d43f-4ac4-b2c6-59a3e67d40a2)
+![Image](https://github.com/user-attachments/assets/222dc81f-314c-46df-8240-45afa2d70b56)
 - Visual BP classification
 - Trend analysis over time
 - Personalized health recommendations
