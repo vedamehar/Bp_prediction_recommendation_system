@@ -2,7 +2,13 @@
 
 # FacePulse: Smart Blood Pressure Prediction System
 
-![Image](https://github.com/user-attachments/assets/a36f6d66-7772-4491-bc3c-ed2a02691081)
+## 🎥 Project Demo
+
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/82fbef8c-a399-4f53-b1d1-164b6fbfb43c" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🌟 Revolutionizing Health Monitoring Through Facial Analysis
@@ -26,7 +32,7 @@ sequenceDiagram
 ```
 
 ## 🚀 Key Features Showcase
-
+![Image](https://github.com/user-attachments/assets/a36f6d66-7772-4491-bc3c-ed2a02691081)
 ### Real-Time Face Analysis
 - Precise facial landmark detection
 - Forehead ROI tracking for rPPG
@@ -85,6 +91,7 @@ def extract_rppg_signal(video_frames):
 ## 🛠️ Technical Implementation Deep Dive
 
 ### Backend Architecture
+Currently, I am storing Data in .csv and .mp4 in my local system and I will further store it in database. I have provided here to do so.
 ```mermaid
 graph TD
     A[Client] -->|WebSocket| B(Node.js)
@@ -130,12 +137,13 @@ def extract_features(signal, fs=30):
 ```
 👨‍💻 Contributors
 
-- Vedant Mehar
-- Aum Mishra
-- Piyush Mishra
-- Krish Mhashakhetri
-- Krish More
-- Saniya Meshram
+- Group - 03
+    - Vedant Mehar
+    - Aum Mishra
+    - Piyush Mishra
+    - Krish Mhashakhetri
+    - Krish More
+    - Saniya Meshram
 
 - 🧑‍🏫 Guide: Prof. Minal Barhate
 - 🎓 Department of Engineering Sciences and Humanities
