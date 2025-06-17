@@ -2,7 +2,13 @@
 
 # FacePulse: Smart Blood Pressure Prediction System
 
-![Demo Video](/assets/ASEP-2 Demo.mp4)
+## 🎬 Demo Video
+
+<video width="600" controls>
+  <source src="https://user-images.githubusercontent.com/YOUR_VIDEO_LINK.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## 🌟 Revolutionizing Health Monitoring Through Facial Analysis
 
