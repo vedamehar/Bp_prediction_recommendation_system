@@ -128,13 +128,15 @@ def extract_features(signal, fs=30):
 ```
 👨‍💻 Contributors
 
-- Group - 03
-    - Vedant Mehar
-    - Aum Mishra
-    - Piyush Mishra
-    - Krish Mhashakhetri
-    - Krish More
-    - Saniya Meshram
+## 👥 Team Members
+
+- [@vedamehar](https://github.com/vedamehar) – Backend Developer
+- [@krishmore](https://github.com/krishmore) – Frontend Developer
+- [@aum-mishra](https://github.com/Aum-Mishra) – ML Engineer
+- [@piyushmishra](https://github.com/Piyush07Mishra) – Researcher & Backend Integration
+- [@saniyameshram](https://github.com/saniyameshram) – UI/UX Designer
+- [@krishmhashakhetri](https://github.com/krishmhashakhetri) – Data Analyst
+
 
 - 🧑‍🏫 Guide: Prof. Minal Barhate
 - 🎓 Department of Engineering Sciences and Humanities
