@@ -28,8 +28,6 @@ sequenceDiagram
 ## 🚀 Key Features Showcase
 
 ### Real-Time Face Analysis
-![Face Detection Demo](/assets/ASEP-2 Demo.mp4)
-)
 - Precise facial landmark detection
 - Forehead ROI tracking for rPPG
 - Emotion recognition
@@ -130,4 +128,17 @@ def extract_features(signal, fs=30):
 - Consult healthcare professionals for diagnosis
 - Designed for wellness tracking, not clinical use
 ```
+👨‍💻 Contributors
+
+- Vedant Mehar
+- Aum Mishra
+- Piyush Mishra
+- Krish Mhashakhetri
+- Krish More
+- Saniya Meshram
+
+- 🧑‍🏫 Guide: Prof. Minal Barhate
+- 🎓 Department of Engineering Sciences and Humanities
+- 🏫 Vishwakarma Institute of Technology, Pune
+
 
