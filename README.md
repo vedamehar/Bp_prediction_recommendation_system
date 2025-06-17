@@ -2,12 +2,7 @@
 
 # FacePulse: Smart Blood Pressure Prediction System
 
-## 🎬 Demo Video
-
-<video width="600" controls>
-  <source src="https://user-images.githubusercontent.com/YOUR_VIDEO_LINK.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Image](https://github.com/user-attachments/assets/a36f6d66-7772-4491-bc3c-ed2a02691081)
 
 
 ## 🌟 Revolutionizing Health Monitoring Through Facial Analysis
@@ -120,13 +115,6 @@ def extract_features(signal, fs=30):
     return features
 ```
 
-## 📱 Mobile Responsiveness
-
-![Mobile Demo](https://via.placeholder.com/300x500?text=Mobile+Interface)
-- Optimized for all screen sizes
-- Progressive Web App capabilities
-- Offline functionality for repeat users
-
 ## 🔮 Future Roadmap
 
 - Integration with health APIs (Apple Health, Google Fit)
@@ -143,14 +131,3 @@ def extract_features(signal, fs=30):
 - Designed for wellness tracking, not clinical use
 ```
 
----
-
-<p align="center">
-  <a href="https://your-demo-link.com">Live Demo</a> | 
-  <a href="https://github.com/yourrepo">GitHub Repo</a> | 
-  <a href="mailto:contact@facepulse.com">Contact Us</a>
-</p>
-
-<p align="center">
-  
-</p>
