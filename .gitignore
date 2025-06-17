@@ -1,0 +1,12 @@
+.venv/
+*.dll
+*.pyd
+*.mp4
+*.avi
+*.h5
+*.ckpt
+*.pt
+*.zip
+*.exe
+*.log
+.DS_Store

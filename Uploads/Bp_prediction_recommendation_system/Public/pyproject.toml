@@ -1,0 +1,19 @@
+[tool]
+name = "Bp_prediction_recommendation_system"
+version = "0.1.0"
+description = "A blood pressure prediction and recommendation system using face detection and machine learning."
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flask = "^2.0"
+opencv-python = "^4.5"
+mediapipe = "^0.8"
+joblib = "^1.0"
+numpy = "^1.21"
+scipy = "^1.7"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

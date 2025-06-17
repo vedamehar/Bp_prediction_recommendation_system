@@ -1,0 +1,79 @@
+/* This file contains the CSS styles for the web application, defining the visual appearance of the pages. */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.results-container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 2rem;
+}
+
+.bp-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.bp-label {
+    font-size: 1rem;
+    color: #7f8c8d;
+}
+
+.suggestion-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.suggestion-list li {
+    background: #ecf0f1;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+.success-message {
+    color: green;
+    font-weight: bold;
+}
+
+button {
+    background-color: #35424a;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #2c3e50;
+}

@@ -1,0 +1,11 @@
+systolic,diastolic,category
+120,80,Normal
+125,85,Elevated
+130,85,Hypertension Stage 1
+145,95,Hypertension Stage 2
+150,100,Hypertension Stage 2
+110,70,Normal
+135,88,Hypertension Stage 1
+140,90,Hypertension Stage 2
+128,82,Elevated
+118,76,Normal

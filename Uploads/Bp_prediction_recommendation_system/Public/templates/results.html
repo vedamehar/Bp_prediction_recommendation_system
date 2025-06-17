@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blood Pressure Results</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Blood Pressure Results</h1>
+        <div class="results-container">
+            <h2>Your Results</h2>
+            <p>Systolic: <span id="systolicValue"></span> mmHg</p>
+            <p>Diastolic: <span id="diastolicValue"></span> mmHg</p>
+            <p>Category: <span id="bpCategory"></span></p>
+            <p>Detected Emotion: <span id="detectedEmotion"></span></p>
+            <h3>Suggestions:</h3>
+            <ul id="suggestionsList"></ul>
+        </div>
+        <div id="errorMessage" style="display: none; color: red;">An error occurred while fetching results.</div>
+        <button id="returnHome">Return Home</button>
+    </div>
+
+    <script src="/static/js/result.js"></script>
+</body>
+</html>
